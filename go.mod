@@ -9,8 +9,8 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.9
 	github.com/things-go/go-socks5 v0.1.4
-	golang.org/x/crypto v0.50.0
-	golang.org/x/net v0.52.0
+	golang.org/x/crypto v0.52.0
+	golang.org/x/net v0.54.0
 	golang.org/x/sys v0.50.0
 	golang.org/x/term v0.48.0
 	golang.zx2c4.com/wireguard v0.0.0-20261024220952-b3bc704ef0ee
@@ -56,7 +56,7 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	golang.org/x/sync v0.20.0 // indirect
-	golang.org/x/text v0.36.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	gvisor.dev/gvisor v0.0.0-20250503011706-39ed1f5ac29c // indirect
