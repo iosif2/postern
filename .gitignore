@@ -1,0 +1,12 @@
+# built binaries
+/postern
+/postern.exe
+/dist/
+*.test
+*.out
+
+# WireGuard configurations: they describe somebody's network
+*.conf
+
+# operating system leftovers
+.DS_Store
